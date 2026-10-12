@@ -1,4 +1,3 @@
-# First commit
 lorem ipsum et cetera
 timeo danaes et dona ferentes
 
