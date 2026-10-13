@@ -1,12 +1,11 @@
-lorem ipsum et cetera
-timeo danaes et dona ferentes
+[](./lichen.jpg)
 
-two enters are above this line
+Hi, I am Vojtěch! I study mathematical modelling at Charles University, Prague. | [CV](https://ikny.github.io/Vojtěch_Mikula_CV.pdf)
 
----
-## very interesting
-[Home](https://ikny.github.io) | [CV](https://ikny.github.io/CV)
+Currently, I am interested in: 
+- open mathematical problems in AI safety
+- other ways to make AI safe, such as governance
+- ways to enhance societal/institutional resilience (e.g. building epistemic infrastructure)
+- modelling the brain
 
-- project
-- project also
-- another project
+Before focusing on AI safety, I contributed to scout education, played bass guitar in a musical theatre or co-created multiple evenings of original poetry. In my spare time I hike, climb, and jump.
