@@ -1,0 +1,11 @@
+body {
+  background-image: url('/assets/bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+main {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+}
