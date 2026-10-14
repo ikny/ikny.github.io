@@ -4,6 +4,6 @@ Currently, I am interested in:
 - open mathematical problems in AI safety
 - other ways to make AI safe, such as governance
 - ways to enhance societal/institutional resilience (e.g. building epistemic infrastructure)
-- modelling the brain
+- modelling the brains of humans and other animals
 
 Before focusing on AI safety, I contributed to scout education, played bass guitar in a musical theatre or co-created multiple evenings of original poetry. In my spare time I hike, climb, and jump.
