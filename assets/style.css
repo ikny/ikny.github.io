@@ -1,7 +1,9 @@
-body {
-  background-image: url('/assets/lichen.jpg');
-  background-size: cover;
-  background-position: center;
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: url('/assets/lichen.jpg') center / cover no-repeat;
 }
 
 main {
