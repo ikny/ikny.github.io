@@ -7,3 +7,5 @@ Currently, I am interested in:
 - modelling the brains of humans and other animals
 
 Before focusing on AI safety, I contributed to scout education, played bass guitar in a musical theatre or co-created multiple evenings of original poetry. In my spare time I hike, climb, and jump.
+
+[![a neat image](/assets/toy_models_replicated.png)](https://colab.research.google.com/drive/12QQWu5_0S_WMfUC1yNIByaO4Y4lVyqxJ?usp=sharing)
