@@ -1,3 +1,8 @@
+<div style="display: flex;" markdown="1">
+  <span><h1 style="display: inline;">Vojtěch Mikula</h1></span>
+  <span style="margin-left: auto;">[github](https://github.com/ikny){:target="_blank"}</span>
+</div>
+
 Hi, I am Vojtěch /VOY-tyekh/! I study mathematical modelling at Charles University, Prague. See my [CV](https://ikny.github.io/Vojtěch_Mikula_CV.pdf) to find out more.
 
 Currently, I am interested in: 
