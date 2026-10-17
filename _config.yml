@@ -1,3 +1,7 @@
+title: Vojtěch Mikula - mathematical modelling
+description: Vojtěch Mikula is a mathematical modelling undergraduate at Charles University, Prague, focusing on AI safety.
+url: "https://ikny.github.io"
+
 defaults:
   - scope:
       path: ""
