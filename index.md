@@ -1,5 +1,4 @@
 <h1><small>Vojtěch Mikula</small></h1>
-[github](https://github.com/ikny){:target="_blank"}
 
 Hi, I am Vojtěch /VOY-tyekh/! I study mathematical modelling at Charles University, Prague. See my [CV](https://ikny.github.io/Vojtěch_Mikula_CV.pdf) to find out more.
 
