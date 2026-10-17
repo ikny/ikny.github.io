@@ -6,8 +6,26 @@ body::before {
   background: url('/assets/lichen.jpg') center / cover no-repeat;
 }
 
+body {
+  margin: 0;
+  padding: 1rem 1rem 60svh;   /* side gutter on phones */
+}
+
 main {
-  background: rgba(255, 255, 255, 0.5);
-  padding: 1rem 1.5rem;
-  border-radius: 6px;
+  max-width: 50rem;        /* about 65 characters per line, a good reading width */
+  margin: 0 auto;          /* centres the column on wide screens */
+  padding-top: 0.8rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  background: rgba(255, 255, 255, 0.9);  /* semi-transparent panel */
+  border-radius: 12px;
+}
+
+main > :first-child { margin-top: 0; } /* otherwise the top margin is too large */
+main > :last-child  { margin-bottom: 0; }
+
+img {
+  max-width: 100%;         /* without this, a large image overflows on phones */
+  height: auto;
 }
