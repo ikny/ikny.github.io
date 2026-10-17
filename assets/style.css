@@ -7,7 +7,7 @@ body::before {
   filter: grayscale(100%);
   transition: filter 0.7s;
 }
-html:hover body::before { filter: grayscale(0%); }
+html:hover body:not(:has(main:hover))::before { filter: grayscale(0%); }
 
 body {
   margin: 0;
