@@ -4,7 +4,10 @@ body::before {
   inset: 0;
   z-index: -1;
   background: url('/assets/lichen.jpg') center / cover no-repeat;
+  filter: grayscale(100%);
+  transition: filter 0.7s;
 }
+html:hover body::before { filter: grayscale(0%); }
 
 body {
   margin: 0;
