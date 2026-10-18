@@ -29,3 +29,29 @@ img {
   max-width: 100%;         /* without this, a large image overflows on phones */
   height: auto;
 }
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar h1 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.topbar nav {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+}
+
+.topbar nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.topbar nav a:hover {
+  text-decoration: underline;
+}
