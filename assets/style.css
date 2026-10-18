@@ -11,7 +11,7 @@ html:hover body:not(:has(main:hover))::before { filter: grayscale(0%); }
 
 body {
   margin: 0;
-  padding: 1rem 1rem 60svh;   /* side gutter on phones */
+  padding: 1rem 1rem 80svh;   /* side gutter on phones and space at the bottom to see the lichen*/
 }
 
 main {
@@ -37,6 +37,10 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.topbar h1 {
+  margin: 0;
 }
 
 .topbar h1 a {
