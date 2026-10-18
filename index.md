@@ -1,5 +1,3 @@
-<h1>Vojtěch Mikula</h1>
-
 Hi, I am Vojtěch /VOY-tyekh/! I study mathematical modelling at Charles University, Prague. See my [CV](https://ikny.github.io/Vojtěch_Mikula_CV.pdf) to find out more.
 
 Currently, I am interested in: 
